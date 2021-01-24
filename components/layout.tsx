@@ -15,7 +15,7 @@ const Layout = ({ children, title = 'NextCoin' }: Props) => (
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
         <header>
-            <h1>Bitcoin Prices</h1>
+            <h1>Bitcoin Prices with NextJS</h1>
             <nav>
                 <Link href="/">
                     <a>Home</a>
